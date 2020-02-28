@@ -41,7 +41,7 @@ p{
     color: #FFFFFF;
 }
 .subtext{
-    height: 289px;
+    min-height: 289px;
     padding-left: 20px;
     padding-top: 20px;
     background: #FFFFFF;
