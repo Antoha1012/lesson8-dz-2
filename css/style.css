@@ -1,0 +1,61 @@
+body{
+    background: #E5E5E5;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+[class^="images"]{
+    width: 100%;
+    display: block;
+}
+.images_2{
+    margin-top: 20px;
+}
+.image_1{
+    height: 540px;
+    background: url(../img/image\ 1.png) no-repeat;
+    background-size: cover;
+    
+}
+.text{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.data_text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #818181;
+}
+.description{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.subtext{
+    height: 289px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background: #FFFFFF;
+}
+.description_images{
+    margin-top: 9px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #1D1D1D;
+}
+.rectangle{
+    margin-top: 94px;
+}
