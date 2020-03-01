@@ -59,3 +59,10 @@ p{
 .rectangle{
     margin-top: 94px;
 }
+.subtext:hover{
+    background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+.subtext:hover p {
+    color:#fff;
+    text-shadow: 1px 1px 10px #000;
+}
